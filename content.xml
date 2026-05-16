@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026051214255586HRB3</value>
+    <value>2026051610420967F5D7</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605121425550N1PSZ</value>
+    <value>20260516104209WTUPWZ</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -61,7 +61,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778582733386</value>
+    <value>1778919841124</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -94,31 +94,11 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>fe58e4a1-ec28-4c0b-8a28-e861d8c10001</odePageId>
+  <odePageId>page-mp82xy6p-r09nlkhup</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Presentación y descripción del proyecto</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Presentación y descripción del proyecto</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value>Presentación y descripción del proyecto</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleHtml</key>
-      <value></value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Presentación y descripción del proyecto</value>
@@ -132,13 +112,33 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       <value>false</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>fe58e4a1-ec28-4c0b-8a28-e861d8c10001</odePageId>
+      <odePageId>page-mp82xy6p-r09nlkhup</odePageId>
       <odeBlockId>block-1778577274542-6abns1f11</odeBlockId>
       <blockName>¡Nos adentramos en el mundo de las plantas!</blockName>
       <iconName></iconName>
@@ -167,24 +167,36 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>fe58e4a1-ec28-4c0b-8a28-e861d8c10001</odePageId>
+          <odePageId>page-mp82xy6p-r09nlkhup</odePageId>
           <odeBlockId>block-1778577274542-6abns1f11</odeBlockId>
           <odeIdeviceId>idevice-1778577274540-olaso685a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?utm_content=DAHIJ8Vmwik&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Actividad 2.1 SdA</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?utm_content=DAHIJ8Vmwik&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Actividad 2.1 SdA</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577274540-olaso685a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?utm_content=DAHIJ8Vmwik&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Actividad 2.1 SdA</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577274540-olaso685a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIJ8Vmwik/WcrbAwxsrPzMhomSooOQIw/view?utm_content=DAHIJ8Vmwik&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Actividad 2.1 SdA</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>fe58e4a1-ec28-4c0b-8a28-e861d8c10001</odePageId>
+      <odePageId>page-mp82xy6p-r09nlkhup</odePageId>
       <odeBlockId>block-1778579703948-0j3ilto30</odeBlockId>
       <blockName>Galería de imágenes</blockName>
       <iconName></iconName>
@@ -213,7 +225,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>fe58e4a1-ec28-4c0b-8a28-e861d8c10001</odePageId>
+          <odePageId>page-mp82xy6p-r09nlkhup</odePageId>
           <odeBlockId>block-1778579703948-0j3ilto30</odeBlockId>
           <odeIdeviceId>idevice-1778579703945-k70aubf7c</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -231,6 +243,18 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778579703945-k70aubf7c"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -238,7 +262,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778577567622-u1n4ojwhg</odePageId>
+  <odePageId>page-mp82xy6q-mfl41nofw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Protección de datos personales</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -247,10 +271,34 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       <key>titlePage</key>
       <value>Protección de datos personales</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778577567622-u1n4ojwhg</odePageId>
+      <odePageId>page-mp82xy6q-mfl41nofw</odePageId>
       <odeBlockId>block-1778577570346-qusr701jf</odeBlockId>
       <blockName>Información importante para las familias, alumnado y docentes.</blockName>
       <iconName></iconName>
@@ -279,18 +327,30 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778577567622-u1n4ojwhg</odePageId>
+          <odePageId>page-mp82xy6q-mfl41nofw</odePageId>
           <odeBlockId>block-1778577570346-qusr701jf</odeBlockId>
           <odeIdeviceId>idevice-1778577570340-9ynjxhuc2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?utm_content=DAHIbetNC3A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Licencias y Protección de datos</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?utm_content=DAHIbetNC3A&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Licencias y Protección de datos</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577570340-9ynjxhuc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?utm_content=DAHIbetNC3A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Licencias y Protección de datos</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577570340-9ynjxhuc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIbetNC3A/EXRSDz3hHS2IqOvYAlWxJw/view?utm_content=DAHIbetNC3A&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Licencias y Protección de datos</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -298,7 +358,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778578178560-qkqk7jxjj</odePageId>
+  <odePageId>page-mp82xy6q-cg1h0rbiz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Producto final</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -307,10 +367,34 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       <key>titlePage</key>
       <value>Producto final</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778578178560-qkqk7jxjj</odePageId>
+      <odePageId>page-mp82xy6q-cg1h0rbiz</odePageId>
       <odeBlockId>block-1778578181651-74nas4yzg</odeBlockId>
       <blockName>Descripción del producto final</blockName>
       <iconName></iconName>
@@ -339,7 +423,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778578178560-qkqk7jxjj</odePageId>
+          <odePageId>page-mp82xy6q-cg1h0rbiz</odePageId>
           <odeBlockId>block-1778578181651-74nas4yzg</odeBlockId>
           <odeIdeviceId>idevice-1778578181649-x2e4yjby7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -352,6 +436,18 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778578181649-x2e4yjby7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final dentro de la situación de aprendizaje sobre las plantas, la herramienta digital que voy a proponer a mi alumnado es Kahoot!.</p>\n<p>He elegido esta herramienta porque trabajo con alumnado de 1º de Educación Primaria, es decir, en una etapa muy temprana en la que la motivación, la participación activa y el aprendizaje lúdico son fundamentales. Kahoot me permite transformar el repaso de contenidos en una actividad tipo juego, lo que favorece la implicación del alumnado y mantiene su atención y motivación.</p>\n<p>En este caso, utilizaremos las tabletas del centro para realizar un cuestionario interactivo en grupos, en el que mi alumnado responderá a preguntas relacionadas con todo lo que hemos aprendido sobre las plantas a lo largo de la situación de aprendizaje. Trabajar en pequeños grupos también favorece la colaboración, la comunicación entre iguales y el aprendizaje compartido. Además, de esta forma mi alumnado con dificultades puede participar activamente apoyándose en sus compañeros/as.</p>\n<p><img src=\"{{context_path}}/content/resources/Kahoot.png\" width=\"200\" height=\"68\" alt=\"\" /><br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -359,11 +455,31 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778578276168-truk3i36l</odePageId>
+  <odePageId>page-mp82xy6q-29gkrmpog</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Curación de contenido (docentes)</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido (docentes)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Curación de contenido (docentes)</value>
@@ -375,7 +491,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778578276168-truk3i36l</odePageId>
+      <odePageId>page-mp82xy6q-29gkrmpog</odePageId>
       <odeBlockId>block-1778578278385-64eoju45v</odeBlockId>
       <blockName>Herramientas utilizadas en la situación de aprendizaje</blockName>
       <iconName></iconName>
@@ -404,7 +520,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778578276168-truk3i36l</odePageId>
+          <odePageId>page-mp82xy6q-29gkrmpog</odePageId>
           <odeBlockId>block-1778578278385-64eoju45v</odeBlockId>
           <odeIdeviceId>idevice-1778578278383-gdhcitrbv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -420,6 +536,18 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778578278383-gdhcitrbv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100%\" height=\"760px\" style=\"border: none;\" class=\"wakeletEmbed\" src=\"https://embed.wakelet.com/wakes/mNIpr3MdyZHAM55rKSZd7/list?border=1\" allow=\"autoplay\"></iframe><!-- Please only call https://embed-assets.wakelet.com/wakelet-embed.js once per page -->\n<script src=\"https://embed-assets.wakelet.com/wakelet-embed.js\" charset=\"UTF-8\"></script>\n</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made wit</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -427,7 +555,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778582346720-g4avmx3cy</odePageId>
+  <odePageId>page-mp82xy6r-ccxhoww7d</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Curación de contenido (alumnado)</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -436,10 +564,34 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       <key>titlePage</key>
       <value>Curación de contenido (alumnado)</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido (alumnado)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778582346720-g4avmx3cy</odePageId>
+      <odePageId>page-mp82xy6r-ccxhoww7d</odePageId>
       <odeBlockId>block-1778582406665-xdllu8m1j</odeBlockId>
       <blockName>Recursos para el alumnado</blockName>
       <iconName></iconName>
@@ -468,7 +620,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778582346720-g4avmx3cy</odePageId>
+          <odePageId>page-mp82xy6r-ccxhoww7d</odePageId>
           <odeBlockId>block-1778582406665-xdllu8m1j</odeBlockId>
           <odeIdeviceId>idevice-1778582406663-ztvjrh4z1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -481,6 +633,18 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778582406663-ztvjrh4z1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/u0lgzju3gpj6poml\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -488,7 +652,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778578442104-k054svxa0</odePageId>
+  <odePageId>page-mp82xy6r-21mxe7ks4</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Actividades y tareas</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -497,10 +661,34 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       <key>titlePage</key>
       <value>Actividades y tareas</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778578442104-k054svxa0</odePageId>
+      <odePageId>page-mp82xy6r-21mxe7ks4</odePageId>
       <odeBlockId>block-1778578444434-ps6fqlljl</odeBlockId>
       <blockName>Resumen visual de las actividades y tareas. El alumnado puede llevar un seguimiento echando un vistazo rápido a la infografía.</blockName>
       <iconName></iconName>
@@ -529,18 +717,30 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778578442104-k054svxa0</odePageId>
+          <odePageId>page-mp82xy6r-21mxe7ks4</odePageId>
           <odeBlockId>block-1778578444434-ps6fqlljl</odeBlockId>
           <odeIdeviceId>idevice-1778578444432-askcbs4nf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?utm_content=DAHJEiRKAYg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">¡ASÍ SON LAS PLANTAS!</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?utm_content=DAHJEiRKAYg&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">¡ASÍ SON LAS PLANTAS!</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778578444432-askcbs4nf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?utm_content=DAHJEiRKAYg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">¡ASÍ SON LAS PLANTAS!</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778578444432-askcbs4nf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJEiRKAYg/4mk__v16cfuSR7UdRC6loA/view?utm_content=DAHJEiRKAYg&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">¡ASÍ SON LAS PLANTAS!</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -548,19 +748,43 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778578875425-g40o4nuxz</odePageId>
+  <odePageId>page-mp82xy6r-g5seytbjd</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Criterios de evaluación</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Criterios de evaluación</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778578875425-g40o4nuxz</odePageId>
+      <odePageId>page-mp82xy6r-g5seytbjd</odePageId>
       <odeBlockId>block-1778579019729-ziif54znn</odeBlockId>
       <blockName>Tareas de la situación de aprendizaje, asociadas a los criterios de evaluación, tipo de agrupamiento, número de sesiones y herramientas y/o materiales utilizados.</blockName>
       <iconName></iconName>
@@ -589,7 +813,7 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778578875425-g40o4nuxz</odePageId>
+          <odePageId>page-mp82xy6r-g5seytbjd</odePageId>
           <odeBlockId>block-1778579019729-ziif54znn</odeBlockId>
           <odeIdeviceId>idevice-1778579019715-3ipzr285s</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -642,6 +866,18 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778579019715-3ipzr285s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>TAREA            CRITERIO DE EVALUACIÓN        AGRUPAMIENTO          TIEMPO APROXIMADO          HERRAMIENTAS<br /></p>\n<p><strong>¡La nueva aventura de Pepe!</strong></p>\n<p>Lectura de un correo electrónico que nos manda Pepe, en el que nos cuenta que quiere ascender de categoría.<br />Contestamos a preguntas comprensivas sobre lo leído.<br /></p>\n<p>C.E.4<br />C.E.4.1. Leer textos escritos y multimodales adecuados a su desarrollo cognitivo, identificando el sentido global y la información relevante y movilizando de forma acompañada estrategias básicas de comprensión, para adquirir conocimiento.<br /></p>\n<p>Gran grupo<br />Individual<br />1 Sesión<br /></p>\n<p>Correo eléctronico<br />Pantalla interactiva<br />Lámina impresa <br />Ficha con preguntas</p>\n<p><br /></p>\n<p><strong>¿Cómo son las plantas?</strong></p>\n<p>Visionado de un video sobre las plantas, para posteriormente realizar una lluvia de ideas y detectar los conocimientos previos de mi alumnado.<br />Juego sobre las partes de la plantas, en el qué tendrán que ir colocando cada parte de la planta en su lugar.<br />Lectura de oraciones sobre las partes de las plantas, para determinar si es verdadero o falso.<br />QUIZ partes de una planta.<br />Genially sobre las fases de crecimiento de una planta.<br /></p>\n<p>C.E.2<br />C.E.2.1 Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.<br />C.E.3<br />C.E.3.2 Participar en interacciones orales, a partir de modelos dados utilizando algunas normas básicas de la cortesía lingüística.<br />C.E.5<br />C.E. 5.1.  Reconocer las características, la organización y las pro- piedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, iniciándose en la utilización de las herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad.<br /></p>\n<p>Gran grupo<br />Individual<br /></p>\n<p>3  Sesiones<br /></p>\n<p>Youtube<br />Pantalla interactiva<br />Juego Wordwall<br />Ficha verdadero o falso<br />Quiz <br />Genially<br /></p>\n<p><strong>¿Qué necesitan las plantas?</strong></p>\n<p>Visionado de un video sobre lo que necesitan las plantas para poder vivir.<br />Lectura. ¡El invernadero de Sebastián! En la que Pepe y Lulú visitarán un invernadero y nos explicarán que necesitan las plantas para poder vivir. <br />Juego interactivo en el que a partir de imágenes de diferentes plantas, tendrán que leer varias opciones y elegir lo que le falta a esa planta para estar sana.  Pegar en la libreta dibujos alusivos a lo que necesitan las plantas y escribir al lado una breve descripción.</p>\n<p><br />C.E.2<br />C.E.2.1. Mostrar curiosidad por objetos, hechos y fenómenos del entorno más cercano e inmediato, realizando pequeños planteamientos para formular preguntas sencillas y realizar pequeñas predicciones.<br />C.E. 5<br />C.E. 5.1. Producir textos escritos y multimodales sencillos y coherentes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados.</p>\n<p><br /></p>\n<p>Gran grupo<br />Individual</p>\n<p><br />Youtube<br />Pantalla interactiva<br />Lectura<br />Juego interactivo<br />Libreta + dibujos<br /></p>\n<p><strong>¿Qué nos dan las plantas?</strong></p>\n<p>Visualización de distintas imágenes en la pizarra digital, sobre objetos cotidianos para descubrir de dónde proceden. <br />Juego interactivo: desplegable en el que hay que seleccionar entre varias opciones, lo qué nos ofrece cada planta.<br />Juego interactivo: clasificamos imágenes sobre alimentos que nos dan las plantas en: frutas, verduras o cereales. <br />Completamos listas de alimentos que nos dan las plantas. <br /></p>\n<p>C.E.4<br />C.E.4.1 Identificar hábitos de vida saludables valorando la importancia de la higiene, una alimentación variada y equilibrada, el ejercicio físico, el contacto con la naturaleza, el descanso y el uso adecuado de las tecnologías.<br />C.E.6.<br />C.E.6.1. Iniciarse en la búsqueda de resultados de un proceso de investigación sencillo, individual o grupal, sobre algún tema de interés personal, realizado de manera acompañada, que implique la localización y selección de información de dos o más fuentes, atendiendo a modelos, incluidas las digitales.</p>\n<p>Gran grupo<br />Individual<br /></p>\n<p>2 Sesiones<br /></p>\n<p>Imágenes de Canva<br />Pantalla interactiva<br />Juegos interactivos<br />Ficha <br /></p>\n<p><strong>¡Problemas en el invernadero!</strong></p>\n<p>Resolución de problemas matemáticos relacionados con las plantas: Pepe y Lulú necesitan nuestra ayuda. Se han hecho un lío en el invernadero y no saben qué hacer.<br /></p>\n<p>C.E.1<br />C.E.1. Interpretar ejemplos de representaciones de situaciones problematizadas sencillas, con recursos manipulativos que ayuden en la resolución de un problema de la vida cotidiana, colaborando entre iguales.<br />C.E.6<br />C.E.6.2. Identificar y comenzar a explicar, de forma verbal, ideas y procesos matemáticos sencillos, comenzando a identificar distintos lenguajes tradicionales o digitales.</p>\n<p>Gran grupo<br />Parejas<br /></p>\n<p>1 Sesión<br /></p>\n<p>Ficha<br />Pizarra interactiva<br /></p>\n<p><strong>¡Sembramos semillas!</strong></p>\n<p><br />Nuestro conserje nos trae un paquete que nos manda Pepe. Leemos la etiqueta para asegurarnos que es nuestro. Lo abrimos y leemos la nota que nos ha mandado. En pequeños grupos, decoramos nuestros recipientes con pintura y elaboramos nuestras etiquetas identificativas.<br />Buscamos información sobre cómo plantar semillas, visualizamos un video y leemos un texto instructivo en CANVA.<br />Grabamos pequeños videos explicativos, sobre el proceso de plantar semillas, sobre los cuidados y el seguimiento de nuestro pequeño huerto para subirlos a nuestro PADLET.</p>\n<p>C.E.4<br />C.E.4.2.  Identificar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales sencillos.<br />C.E.4<br />C.E.4.2. Tomar parte, de manera guiada, en el proceso cooperativo de creación de producciones culturales y artísticas de forma respetuosa e iniciándose en la utilización de elementos básicos de diferentes lenguajes y técnicas artísticas.<br />C.E.2<br />C.E.2.5. Iniciarse en el uso de destrezas básicas para comunicar de forma oral o gráfica el resultado de las investigaciones, realizando, de manera guiada, la explicación de los pasos seguidos con ayuda de un guion.<br />C.E.6<br />C.E.6.3. Iniciarse de manera acompañada en el uso, seguro y saludable de las tecnologías digitales en relación con la búsqueda de la información.</p>\n<p>Gran grupo<br />Grupos cooperativos<br /></p>\n<p>3 Sesiones<br /></p>\n<p>Paquete <br />Pintura<br />Material para plantar<br />YOUTUBE<br />CANVA<br />PADLET<br /></p>\n<p><strong>¡Expertos en plantas!</strong></p>\n<p>Realización de un Kahoot! en parejas sobre todo lo que sabemos sobre las plantas, para repasar antes de hacer nuestra prueba final del tema. <br />Realización de un Pliquers, de manera individual a modo de evaluación sobre el tema. <br /></p>\n<p>C.E.1<br />C.E.1. Iniciarse en la utilización de dispositivos y recursos digitales sencillos de acuerdo con las necesidades básicas del contexto educativo de forma segura.</p>\n<p>Parejas<br />Individual</p>\n<p>2 Sesiones<br /></p>\n<p>Tablets<br />Tarjetas de pliquers<br />Pizarra interactiva</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -649,19 +885,43 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778579545549-joroxthlq</odePageId>
+  <odePageId>page-mp82xy6r-9al53gqab</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Instrumentos de evaluación</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Instrumentos de evaluación</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778579545549-joroxthlq</odePageId>
+      <odePageId>page-mp82xy6r-9al53gqab</odePageId>
       <odeBlockId>block-1778579547429-d1miwqnbg</odeBlockId>
       <blockName>Algunos de los instrumentos de evaluación que se utilizarán en la situación de aprendizaje.</blockName>
       <iconName></iconName>
@@ -690,18 +950,30 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778579545549-joroxthlq</odePageId>
+          <odePageId>page-mp82xy6r-9al53gqab</odePageId>
           <odeBlockId>block-1778579547429-d1miwqnbg</odeBlockId>
           <odeIdeviceId>idevice-1778579547428-ia6vq4prr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?utm_content=DAHJFEYkOR0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Instrumentos de evaluación</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?utm_content=DAHJFEYkOR0&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Instrumentos de evaluación</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778579547428-ia6vq4prr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?utm_content=DAHJFEYkOR0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Instrumentos de evaluación</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778579547428-ia6vq4prr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJFEYkOR0/8XisPDGszFOLjeB-PVpmcA/view?utm_content=DAHJFEYkOR0&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Instrumentos de evaluación</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -709,19 +981,43 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778582030435-16xapze4g</odePageId>
+  <odePageId>page-mp82xy6r-v6remoyi5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Guía didáctica</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778582030435-16xapze4g</odePageId>
+      <odePageId>page-mp82xy6r-v6remoyi5</odePageId>
       <odeBlockId>block-1778582032603-mukbio9xx</odeBlockId>
       <blockName>Breve guía didáctica sobre la situación de aprendizaje</blockName>
       <iconName></iconName>
@@ -750,18 +1046,30 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778582030435-16xapze4g</odePageId>
+          <odePageId>page-mp82xy6r-v6remoyi5</odePageId>
           <odeBlockId>block-1778582032603-mukbio9xx</odeBlockId>
           <odeIdeviceId>idevice-1778582032601-afa2jefds</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?utm_content=DAHJco77Wc0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Guía didáctica</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?utm_content=DAHJco77Wc0&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Guía didáctica</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778582032601-afa2jefds","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?utm_content=DAHJco77Wc0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Guía didáctica</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778582032601-afa2jefds","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJco77Wc0/hUQb9cJzAGIc3I6RHUuSQg/view?utm_content=DAHJco77Wc0&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Guía didáctica</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -769,19 +1077,43 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1778583202127-to3uxkl9q</odePageId>
+  <odePageId>page-mp82xy6r-p2i11jxs7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Créditos</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1778583202127-to3uxkl9q</odePageId>
+      <odePageId>page-mp82xy6r-p2i11jxs7</odePageId>
       <odeBlockId>block-1778583207125-j35gc7aer</odeBlockId>
       <blockName>Licencia: Este recurso educativo está bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).</blockName>
       <iconName></iconName>
@@ -810,16 +1142,91 @@ El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la n
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1778583202127-to3uxkl9q</odePageId>
+          <odePageId>page-mp82xy6r-p2i11jxs7</odePageId>
           <odeBlockId>block-1778583207125-j35gc7aer</odeBlockId>
           <odeIdeviceId>idevice-1778583207123-fgtne2uzl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
   </iframe></div>
-<p><a href="https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?utm_content=DAHJcpmN3cc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Créditos</a> de eresse_16</p>
+<p><a href="https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?utm_content=DAHJcpmN3cc&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Créditos</a> de eresse_16</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778583207123-fgtne2uzl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?utm_content=DAHJcpmN3cc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Créditos</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778583207123-fgtne2uzl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 141.4286%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJcpmN3cc/OdlmhB_A-m1Y6UpcfuZKgw/view?utm_content=DAHJcpmN3cc&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Créditos</a> de eresse_16</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp82xy6r-p2i11jxs7</odePageId>
+      <odeBlockId>block-1778919891212-u89a0hclk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp82xy6r-p2i11jxs7</odePageId>
+          <odeBlockId>block-1778919891212-u89a0hclk</odeBlockId>
+          <odeIdeviceId>idevice-1778919891210-beszucpz6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Así son las plantas!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta Situación de Aprendizaje está dirigida al alumnado de 1.º de Primaria del área de Conocimiento del Medio. A través de actividades manipulativas, juegos, recursos digitales y pequeñas investigaciones, los niños y niñas descubrirán las partes de las plantas, sus necesidades y la importancia que tienen para la vida.
+El proyecto fomentará la curiosidad, el trabajo en equipo y el respeto por la naturaleza, finalizando con la creación de un producto final en el que el alumnado mostrará todo lo aprendido de forma creativa, divertida y práctica.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Rocío Pardo Aguilera</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#f5adef;color:#ffffff;">Descargar el https://rociopardoaguilera.github.io/eXeLearning-Las-plantas/ .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
